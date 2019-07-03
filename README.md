@@ -50,6 +50,7 @@ the open source community.
 ## Overall Architecture
 
 ![volcano](docs/images/volcano-intro.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fvolcano.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fvolcano?ref=badge_shield)
 
 ## Quick Start Guide
 
@@ -143,3 +144,7 @@ You can reach the maintainers of this project at:
 Slack: [#volcano-sh](http://t.cn/Efa7LKx)
 
 Mailing List: https://groups.google.com/forum/#!forum/volcano-sh
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fvolcano.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fvolcano?ref=badge_large)
